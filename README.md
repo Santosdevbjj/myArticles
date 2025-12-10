@@ -119,7 +119,7 @@ Sinta-se livre para aprender, adaptar e evoluir — com responsabilidade e atrib
 
 ---
 
-## 📢 Contato
+## 📢 **Conecte-se comigo:**
 
 Interessado em conversar sobre:
 
@@ -130,10 +130,19 @@ Interessado em conversar sobre:
 - IA aplicada ao negócio
 - Segurança da Informação
 
-**Conecte-se comigo:**
 
-➡️ LinkedIn: https://www.linkedin.com/in/santosdevbjj  
-➡️ E-mail: disponível no seu perfil GitHub
+
+---
+**Contato:**
+
+
+[![Portfólio Sérgio Santos](https://img.shields.io/badge/Portfólio-Sérgio_Santos-111827?style=for-the-badge&logo=githubpages&logoColor=00eaff)](https://santosdevbjj.github.io/portfolio/)
+[![LinkedIn Sérgio Santos](https://img.shields.io/badge/LinkedIn-Sérgio_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santossergioluiz) 
+
+
+
+
+
 
 ---
 

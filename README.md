@@ -1,7 +1,3 @@
-
-
-```markdown
-```
 # MyArticles
 
 Artigos técnicos sobre governança de dados, infraestrutura e sistemas críticos
@@ -138,8 +134,9 @@ Interessado em conversar sobre:
 ---
 
 Contribuições e sugestões são bem-vindas. Conecte-se para trocar ideias sobre governança, infraestrutura e sistemas críticos.
-```
 
+
+---
 
 
 

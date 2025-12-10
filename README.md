@@ -1,6 +1,7 @@
 
 
 ```markdown
+```
 # MyArticles
 
 Artigos técnicos sobre governança de dados, infraestrutura e sistemas críticos

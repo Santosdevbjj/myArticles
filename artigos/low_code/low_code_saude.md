@@ -1,4 +1,6 @@
-  Low-Code na Saúde: Como Criar Apps Médicos em Semanas
+  **Low-Code na Saúde: Como Criar Apps Médicos em Semanas**
+  
+  ![lowCode](https://github.com/user-attachments/assets/19bdbc30-f2a1-4a1e-9f76-d62bdb372595)
 
 
 
@@ -6,7 +8,7 @@
 
 
 
-  Introdução: A Necessidade Real de Inovação Digital na Saúde 
+  **Introdução:** A Necessidade Real de Inovação Digital na Saúde 
 
 O setor de saúde brasileiro enfrenta um paradoxo: enquanto a medicina avança exponencialmente, a infraestrutura tecnológica hospitalar permanece décadas defasada. 
 
@@ -20,7 +22,7 @@ As plataformas Low-Code emergem como solução viável para esta lacuna, permiti
 
 
 
-  O Que É Low-Code Aplicado à Saúde?
+  **O Que É Low-Code Aplicado à Saúde?**
 
 
 
@@ -30,7 +32,7 @@ Low-Code é uma abordagem de desenvolvimento que utiliza interfaces gráficas e 
 
 
 
-  Características Principais:
+  **Características Principais:**
 
 -  Interface visual: Desenvolvimento por arrastar e soltar
 
@@ -42,7 +44,7 @@ Low-Code é uma abordagem de desenvolvimento que utiliza interfaces gráficas e 
 
 
 
-  Vantagens Documentadas:
+  **Vantagens Documentadas:**
 
 - Redução de 70-90% no tempo de desenvolvimento (Gartner, 2024)
 
@@ -54,33 +56,33 @@ Low-Code é uma abordagem de desenvolvimento que utiliza interfaces gráficas e 
 
 
 
-  O Cenário Atual da Tecnologia Médica no Brasil
+  **O Cenário Atual da Tecnologia Médica no Brasil**
 
 
 
-  Desafios Identificados:
+  **Desafios Identificados:**
 
 
 
-  Custos Elevados:
+  **Custos Elevados:**
 
 Sistemas hospitalares tradicionais custam entre R$ 150.000 e R$ 500.000, com implementação de 12-24 meses. Para clínicas menores, este investimento é proibitivo.
 
 
 
-  Complexidade Técnica:
+  **Complexidade Técnica:**
 
 A maioria dos softwares médicos requer treinamento extensivo e suporte técnico constante, criando dependência externa.
 
 
 
-  Falta de Personalização:
+  **Falta de Personalização:**
 
 Soluções padronizadas não atendem especificidades de diferentes especialidades médicas, forçando adaptações custosas.
 
 
 
-  Dados do Setor:
+  **Dados do Setor:**
 
 - 43% dos médicos relatam insatisfação com sistemas atuais (CFM, 2023)
 
@@ -90,11 +92,11 @@ Soluções padronizadas não atendem especificidades de diferentes especialidade
 
 
 
-  Lovable: Desenvolvimento de Apps Médicos Simplificado
+  **Lovable: Desenvolvimento de Apps Médicos Simplificado**
 
 
 
-  O Que É o Lovable:
+  **O Que É o Lovable:**
 
 
 
@@ -102,7 +104,7 @@ Plataforma Low-Code especializada em aplicações mobile, com recursos específi
 
 
 
- Funcionalidades Principais:
+ **Funcionalidades Principais:**
 
 
 

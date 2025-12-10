@@ -1,5 +1,9 @@
 # MyArticles
 
+<img width="1080" height="684" alt="Screenshot_20251210-173157" src="https://github.com/user-attachments/assets/ffdd2609-7a05-41dc-844e-67eecf37c254" />
+
+---
+
 Artigos técnicos sobre governança de dados, infraestrutura e sistemas críticos
 
 Bem-vindo ao myArticles, um repositório criado para compartilhar artigos técnicos, análises profundas e reflexões profissionais sobre governança de dados, sistemas críticos, infraestrutura corporativa, ética digital, segurança da informação e tecnologias emergentes.

@@ -43,7 +43,7 @@ Aqui você encontrará:
 - Estudos de caso baseados em experiência prática
 - Metodologias aplicáveis no dia a dia corporativo
 
----
+--- 
 
 ## Sobre o Autor
 

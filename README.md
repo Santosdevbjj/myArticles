@@ -1,135 +1,84 @@
-### Meus Artigos  
-
+### 📚 Meus Artigos: Governança, IA e Infraestrutura Crítica
  
 <img width="1080" height="1037" alt="MeusArtigos001" src="https://github.com/user-attachments/assets/c69e26e1-1ed3-4181-bb71-35b49abcbf36" />
 
 ---
 
-Artigos técnicos sobre governança de dados, infraestrutura e sistemas críticos
+📖 **Visão Geral**
 
-Bem-vindo ao myArticles, um repositório criado para compartilhar artigos técnicos, análises profundas e reflexões profissionais sobre governança de dados, sistemas críticos, infraestrutura corporativa, ética digital, segurança da informação e tecnologias emergentes.
-
-Repositório com artigos baseados em mais de 15 anos de experiência em ambientes corporativos regulados, cobrindo governança de dados, infraestrutura crítica, segurança da informação e tecnologias emergentes.
-
-> **Compromisso Editorial:** Os artigos publicados aqui seguem princípios de ética digital, responsabilidade no uso de dados e respeito à confidencialidade corporativa.
+Este repositório centraliza artigos técnicos e análises estratégicas focadas em Governança de Dados, Sistemas Críticos e Tecnologias Emergentes. É um compilado de conhecimentos práticos derivados de mais de 15 anos de atuação em ambientes corporativos altamente regulados.
 
 ---
 
-## Propósito do Repositório
+• **Para quem é este repositório
+Este espaço foi estruturado pensando em:**
+ 
+ * Recrutadores técnicos avaliando profissionais de nível Sênior/Especialista.
+ 
+ * Líderes de tecnologia e arquitetura em busca de frameworks de governança.
+ 
+ * Profissionais em transição para as áreas de Dados, IA e Compliance.
+ 
+ * Executivos interessados em IA aplicada com foco em segurança e ROI.
 
-### 1. Compartilhar Conhecimento Técnico com Profundidade e Clareza
-
-Os conteúdos contemplam temas como:
-
-- Governança de Dados
-- Sistemas Críticos e Alta Disponibilidade
-- Modernização de Infraestrutura
-- IA Generativa e aplicações corporativas
-- Cibersegurança e análise de riscos
-- Práticas de Engenharia de Software
-- Visualização de dados
-- Cloud Computing
-
-Sempre com rigor técnico, linguagem simples e foco em aplicabilidade.
-
-### 2. Criar Valor Real para Profissionais e Organizações
-
-Aqui você encontrará:
-
-- Frameworks estratégicos
-- Guias de melhores práticas
-- Análises técnicas
-- Recomendações de governança
-- Estudos de caso baseados em experiência prática
-- Metodologias aplicáveis no dia a dia corporativo
-
---- 
-
-## Sobre o Autor
-
-**Sérgio Santos** - Mais de 15 anos em sistemas críticos e infraestrutura corporativa
-
-Atuação consolidada em ambientes corporativos regulados, com entregas como:
-
-- Automação de processos críticos reduzindo significativamente horas de processamento manual
-- Infraestrutura corporativa de alta disponibilidade para ambientes com centenas de usuários
-- Desenvolvimento de sistemas jurídicos com rastreabilidade completa
-- Programas de capacitação em cultura de compliance e boas práticas
-
-**Base técnica:** Visual Basic, C, SQL, ambiente Windows Server, arquitetura corporativa e mainframe.
-
-### Reskilling Contínuo
-
-Investimento ativo em tecnologias emergentes:
-
-- IA Generativa, Azure AI, Power BI
-- Python, C#/.NET, Java
-- Cibersegurança, modelos de risco e prevenção a incidentes
-- Cloud Computing (Azure, AWS, Google Cloud)
-
-### Abordagem
-
-Equilibrando rigor técnico, visão de negócio e práticas de governança.
 
 ---
 
-## 📂 Estrutura do Repositório
+• **Objetivo do Projeto**
 
-```
-myArticles/
-├── artigos/
-│   ├── governanca/
-│   ├── ia/
-│   ├── infraestrutura/
-│   ├── compliance/
-│   └── carreira/
-│
-├── templates/
-│   ├── modelo_artigo.md
-│   └── guia_estilos.md
-│
-└── assets/
-    └── imagens/
-```
+Documentar a intersecção entre a infraestrutura robusta (legado/sistemas críticos) e a inovação (IA Generativa/Grafos), oferecendo guias que possam ser aplicados em cenários reais de negócios que exigem alta conformidade e disponibilidade.
 
-**📝 artigos/** - Artigos organizados por temas e áreas estratégicas.
-
-**🧱 templates/** - Modelos para padronização e consistência editorial.
-
-**🖼️ assets/** - Imagens, gráficos e materiais de apoio.
 
 ---
 
-## 🚀 Como Contribuir
+•  **Decisões Técnicas e Editoriais**
 
-Mesmo sendo um repositório pessoal, toda colaboração é bem-vinda.
+ * Markdown como Base: Conteúdo versionável e acessível, mantendo o histórico de evolução do pensamento técnico.
 
-Você pode:
+ * Curadoria por Relevância: Foco em "pontos de dor" do mercado, como a transição do medo da IA para a governança prática.
+ 
+ * Abordagem Executiva: Textos estruturados para serem lidos tanto por analistas quanto por gestores, equilibrando profundidade técnica e clareza estratégica.
 
-- Abrir issues com sugestões
-- Compartilhar insights
-- Propor novos temas
-- Relatar inconsistências
+   ---
+   
+
+🛠️ **Tecnologias e Contexto**
+
+ * **Neo4j:** Utilizado para modelar relações complexas em cenários de governança e evolução de carreira (Análise de Grafos).
+
+ * **IA Generativa:** Foco em Guardrails de segurança, implementação em camadas e métricas de eficiência/ROI.
+
+ * **Infraestrutura Crítica:** Sistemas de alta disponibilidade, Mainframe e Windows Server aplicados a ambientes regulados.
+
+ * **Cloud Computing:** Estratégias de migração, governança e segurança em Azure, AWS e Google Cloud.
 
 ---
 
-## 📜 Licença
 
-Este projeto utiliza MIT License.  
-Sinta-se livre para aprender, adaptar e evoluir — com responsabilidade e atribuição.
+📂 **Destaques do Repositório**
+
+ * Como o Bradesco Implementou IA Generativa: Análise profunda sobre segurança, governança e mitigação de riscos regulatórios em modelos de linguagem.
+ 
+ * **Neo4j:** Estrutura de Dados Conectados: Estudo sobre como a análise de grafos transforma dados brutos em inteligência estratégica.
+
+ * **Low-Code na Saúde:** Como conciliar agilidade de desenvolvimento com o rigor de compliance em setores críticos e sensíveis.
+
+•  Se você é recrutador ou líder técnico
+Este repositório reflete minha forma de pensar, decidir e comunicar tecnologia. Sinta-se à vontade para explorar os artigos como estudos de caso reais da minha jornada profissional e capacidade de entrega.
+
 
 ---
 
-## 📢 **Conecte-se comigo:**
+**Como usar este repositório**
 
-Interessado em conversar sobre:
+**Sugestão de leitura:**
+Comece pelos artigos de IA Generativa para visão estratégica e, em seguida, explore Grafos e Infraestrutura Crítica para aprofundamento técnico.
 
-- Governança de Dados
-- Modernização de Infraestrutura
-- Ética Digital e Conformidade
-- Sistemas Críticos
-- IA aplicada ao negócio
-- Segurança da Informação
+
+---
+
+•  **Conecte-se comigo**
+Interessado em conversar sobre Governança, IA ou Sistemas Críticos?
 
 
 
@@ -146,12 +95,5 @@ Interessado em conversar sobre:
 
 
 ---
-
-Contribuições e sugestões são bem-vindas. Conecte-se para trocar ideias sobre governança, infraestrutura e sistemas críticos.
-
-
----
-
-
 
 

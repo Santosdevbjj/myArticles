@@ -81,14 +81,14 @@ Este repositório reflete minha forma de pensar, decidir e comunicar tecnologia.
 
 **Sugestão de leitura:**
 
-Comece pelos artigos de IA Generativa para visão estratégica e, em seguida, explore Grafos e Infraestrutura Crítica para aprofundamento técnico.
+• Comece pelos artigos de IA Generativa para visão estratégica e, em seguida, explore Grafos e Infraestrutura Crítica para aprofundamento técnico.
 
 
 ---
 
-•  **Conecte-se comigo**
+ **Conecte-se comigo**
 
-Interessado em conversar sobre Governança, IA ou Sistemas Críticos?
+• Interessado em conversar sobre Governança, IA ou Sistemas Críticos?
 
 
 

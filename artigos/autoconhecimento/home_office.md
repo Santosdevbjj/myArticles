@@ -14,7 +14,7 @@ Neste artigo, você vai descobrir como a neurociência explica seus limites perc
 
 Pesquisas em neurociência demonstram algo fascinante: o cérebro funciona como um sistema preditivo de preservação de energia. Segundo Hockey (2013), nosso córtex prefrontal constantemente avalia custos e benefícios do esforço mental, acionando sinais de fadiga antes do esgotamento real.
 
-    Entendendo a Regra dos 40% Como Metáfora Operacional
+**Entendendo a Regra dos 40% Como Metáfora Operacional**
 
   Disclaimer científico importante: Não há evidência empírica direta de que indivíduos utilizem apenas 40% de sua capacidade cognitiva ao sentirem fadiga. O valor funciona como metáfora operacional para limites percebidos versus limites reais.
 

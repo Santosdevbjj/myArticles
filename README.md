@@ -57,7 +57,7 @@ Documentar a intersecção entre a infraestrutura robusta (legado/sistemas crít
 
 📂 **Destaques do Repositório**
 
- * Como o Bradesco Implementou IA Generativa: Análise profunda sobre segurança, governança e mitigação de riscos regulatórios em modelos de linguagem.
+ * **Como o Bradesco Implementou IA Generativa:** Análise profunda sobre segurança, governança e mitigação de riscos regulatórios em modelos de linguagem.
  
  * **Neo4j:** Estrutura de Dados Conectados: Estudo sobre como a análise de grafos transforma dados brutos em inteligência estratégica.
 

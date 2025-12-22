@@ -54,6 +54,14 @@ Documentar a intersecção entre a infraestrutura robusta (legado/sistemas crít
 
 ---
 
+📂 **Estrutura do Repositório**
+
+
+<img width="924" height="1054" alt="Screenshot_20251222-103347" src="https://github.com/user-attachments/assets/8e193780-95ee-4fad-a1aa-71ca44482882" />
+
+
+---
+
 
 📂 **Destaques do Repositório**
 

@@ -315,7 +315,16 @@ Para ambientes de produção com uso previsível, há mecanismos de otimização
 
 **Azure Policy para bloquear SKUs caros** — impede que desenvolvedores provisionem VMs de alto custo em dev/test sem aprovação explícita.
 
-> 🖼️ **Sugestão visual:** Um gráfico comparando custo mensal com on-demand puro vs combinação de Reservations + Savings Plan + Spot gera alto engajamento e conversas nos comentários.
+> 🖼️ **Você ainda paga On-Demand no Azure?**
+  
+> Veja como a combinação de Reservations + Savings Plan + Spot pode reduzir drasticamente seu custo mensal na nuvem.  
+
+> O gráfico abaixo mostra o impacto real dessa estratégia — e por que ela está gerando conversas quentes entre arquitetos e líderes de TI.
+
+<img width="1080" height="1050" alt="grafico-custo" src="https://github.com/user-attachments/assets/d414b9f6-a957-4b32-bb4d-06b20410832b" />
+
+> Ele mostra de forma clara e direta como o custo mensal no Azure Cloud Native cai drasticamente quando se combina Reservations + Savings Plan + Spot, em comparação com o modelo On-Demand puro.
+
 
 ---
 

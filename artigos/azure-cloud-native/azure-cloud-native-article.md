@@ -253,7 +253,6 @@ O resultado prático: microservices mais enxutos, testáveis e portáveis — e 
 | Auto-scaling por HTTP Concurrency (KEDA) | 1.400 | 75% |
 | Auto-scaling + Cache Redis + Scale-to-zero | 2.100 | 62% |
 
-> 🖼️ **Sugestão visual:** Um gráfico de barras com esses três cenários é altamente compartilhável. Canva ou Google Slides em 10 minutos.
 
 ---
 
@@ -263,7 +262,7 @@ A abordagem de segurança no Azure evoluiu além do Defense in Depth. O modelo a
 
 No modelo estratégico da Microsoft, **identidade é o novo perímetro de segurança**. Em ambientes Cloud Native, não existe mais um "interior seguro" protegido por firewall de rede — cada acesso, de qualquer origem, precisa ser verificado, autorizado e auditado.
 
-Os três princípios do Zero Trust aplicados ao Azure:
+**Os três princípios do Zero Trust aplicados ao Azure:**
 
 **1. Verificar explicitamente**
 Toda autenticação passa pelo **Microsoft Entra ID** (antigo Azure AD). Conditional Access garante que apenas identidades verificadas, em dispositivos conformes, acessem recursos sensíveis.

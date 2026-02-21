@@ -63,6 +63,10 @@ Do ponto de vista de negócio: em estudos de mercado e relatórios do setor, tim
 
 ## Exemplo Prático: Do Código à Produção no Azure
 
+<img width="1080" height="952" alt="Screenshot_20260221-110131" src="https://github.com/user-attachments/assets/3877f609-e934-4159-90ca-7440bf8e2d32" />
+
+
+
 > 🖼️ **Diagrama de referência para publicação:**
 > `Usuário → Azure Front Door → Container Apps → Managed Identity → Key Vault → Azure SQL`
 > `Observabilidade → OpenTelemetry → Application Insights → Log Analytics`

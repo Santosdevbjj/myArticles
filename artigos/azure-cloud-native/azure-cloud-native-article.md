@@ -1,6 +1,6 @@
 # Azure Cloud Native na Prática: Escalando Apps sem Senhas e com Custos Controlados
 
-*Por um especialista em Cloud Computing | Microsoft Azure | Cloud Native*
+*Por um estudioso em Cloud Computing | Microsoft Azure | Cloud Native*
 
 ---
 

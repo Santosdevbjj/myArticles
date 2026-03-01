@@ -2,11 +2,11 @@
 
 
 
-# Última atualização: Outubro 2025 | 
+### Última atualização: Outubro 2025 | 
 
-# Versões cobertas: .NET 6, 7, 8 e 9 |  
+### Versões cobertas: .NET 6, 7, 8 e 9 |  
 
-# IDEs: Visual Studio 2022+ | VS Code 1.80+
+### IDEs: Visual Studio 2022+ | VS Code 1.80+
 
 
 

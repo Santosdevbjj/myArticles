@@ -1,4 +1,4 @@
-## AWS em Colapso: As Lições Que Todo Engenheiro de Cloud Precisa Aplicar Antes do Próximo Apagão
+AWS em Colapso: As Lições Que Todo Engenheiro de Cloud Precisa Aplicar Antes do Próximo Apagão
 
 Na manhã de 20 de outubro de 2025, milhões de pessoas ao redor do mundo acordaram para uma realidade inquietante: serviços essenciais simplesmente pararam de funcionar.
 

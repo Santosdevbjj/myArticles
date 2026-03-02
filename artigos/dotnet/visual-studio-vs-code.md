@@ -1,5 +1,5 @@
 ## Visual Studio vs VS Code: O Guia Para Multiplicar Sua Produtividade em .NET
-
+ 
 
 
 ### Última atualização: Outubro 2025 | 

@@ -2,7 +2,9 @@
    
  Você sabia que dominar os Fundamentos de Java vai muito além de aprender sintaxe?
 '
-      **Resumo Executivo**
+     
+      
+   **Resumo Executivo**
 
    Da teoria à produção: um guia prático de Orientação a Objetos, TDD e BDD em Java.
 

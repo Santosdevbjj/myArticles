@@ -1,4 +1,6 @@
-Serverless Orchestration Best Practices: Por que Microsserviços Precisam de AWS Step Functions
+## Serverless Orchestration Best Practices: Por que Microsserviços Precisam de AWS Step Functions
+
+
 Workflow automation in AWS | Serverless orchestration | Cloud-native governance
 Por Sérgio Santos
 
@@ -6,6 +8,7 @@ Por Sérgio Santos
 
 
 O Problema: Microsserviços Escalam… Até a Complexidade Explodir
+
 Arquiteturas cloud-native começam elegantes:
 
 Lambda ➜ Lambda ➜ Lambda

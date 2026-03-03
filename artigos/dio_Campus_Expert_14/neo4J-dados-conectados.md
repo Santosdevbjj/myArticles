@@ -435,4 +435,3 @@ SQL estruturou o passado com excelência em transações e agregações. Neo4j c
 
 
 
-#euSouDioCampusExpert

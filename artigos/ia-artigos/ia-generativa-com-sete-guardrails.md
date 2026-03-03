@@ -1,4 +1,4 @@
-## Como o Bradesco Implementou IA Generativa com 7 Guardrails de Segurança
+IA Generativa com 7 Guardrails de Segurança
 
 
 Um estudo técnico sobre como a governança e o RAG corporativo redefiniram a segurança da IA Generativa no setor financeiro.

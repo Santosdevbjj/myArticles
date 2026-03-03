@@ -4,8 +4,6 @@
 Workflow automation in AWS | Serverless orchestration | Cloud-native governance
 Por Sérgio Santos
 
-<img width="1080" height="465" alt="steppstep" src="https://github.com/user-attachments/assets/a3dbb8de-d672-4f18-aa32-b19464d933b7" />
-
 
 O Problema: Microsserviços Escalam… Até a Complexidade Explodir
 

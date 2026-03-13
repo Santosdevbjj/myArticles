@@ -1,5 +1,5 @@
 # Meus Artigos: Governança, IA e Infraestrutura Crítica
-### Pensamento Técnico Aplicado • 19 Artigos • 10 Áreas de Especialização
+### Pensamento Técnico Aplicado •  Artigos • Por Áreas de Especialização
 
 <img width="1080" height="1037" alt="MeusArtigos001" src="https://github.com/user-attachments/assets/c69e26e1-1ed3-4181-bb71-35b49abcbf36" />
 
@@ -7,7 +7,7 @@
 
 ## 1. Problema de Negócio
 
-Repositórios de artigos no GitHub costumam ser cemitérios de links: uma lista de títulos sem contexto, sem fio condutor, sem narrativa. Para o profissional que escreve, é trabalho desperdiçado. Para o recrutador ou líder técnico que avalia, é impossível entender o que aquela produção diz sobre a capacidade de raciocínio de quem a criou.
+Repositórios de artigos no GitHub costumam ser apenas de links: uma lista de títulos sem contexto, sem fio condutor, sem narrativa. Para o profissional que escreve, é trabalho desperdiçado. Para o recrutador ou líder técnico que avalia, é impossível entender o que aquela produção diz sobre a capacidade de raciocínio de quem a criou.
 
 O problema real não é falta de conteúdo — é falta de curadoria estratégica.
 
@@ -21,7 +21,7 @@ Com mais de 15 anos de atuação em sistemas críticos bancários (Bradesco), de
 
 Essa experiência em infraestrutura crítica é o filtro pelo qual leio e escrevo sobre tecnologia. Não escrevo sobre o que é possível fazer com uma ferramenta — escrevo sobre o que faz sentido fazer, quando fazer e o que considerar antes de colocar em produção.
 
-Os 19 artigos deste repositório cobrem uma trajetória intencional: de autoconhecimento profissional (o alicerce de qualquer evolução técnica) passando por dados, cloud e IA, até linguagens e IDEs — sempre com foco no "por quê" antes do "como".
+Os artigos deste repositório cobrem uma trajetória intencional: de autoconhecimento profissional (o alicerce de qualquer evolução técnica) passando por dados, cloud e IA, até linguagens e IDEs — sempre com foco no "por quê" antes do "como".
 
 ---
 
@@ -39,7 +39,7 @@ As seguintes premissas guiam a curadoria e a escrita de todos os artigos:
 
 ## 4. Estratégia da Solução — Como Este Repositório Está Organizado
 
-O repositório é estruturado em **10 pastas temáticas**, cada uma representando uma área de especialização distinta. A ordem de leitura sugerida abaixo não é aleatória — ela reflete uma progressão de dentro para fora: do profissional (autoconhecimento) para o técnico (dados, cloud, IA, linguagens).
+O repositório é estruturado em **pastas temáticas**, cada uma representando uma área de especialização distinta. A ordem de leitura sugerida abaixo não é aleatória — ela reflete uma progressão de dentro para fora: do profissional (autoconhecimento) para o técnico (dados, cloud, IA, linguagens).
 
 **Camada 1 — Fundação Humana** (`autoconhecimento/`)
 Antes de qualquer stack, a performance profissional depende de autogestão. Os 3 artigos desta pasta abordam aprendizado contínuo, foco no home office e inteligência emocional — com base em neurociência e dados do Fórum Econômico Mundial, não em autoajuda.
@@ -63,7 +63,7 @@ Artigos técnicos profundos sobre Java com OOP real, Visual Studio vs VS Code pa
 
 ## 5. Insights da Curadoria
 
-A leitura transversal dos 19 artigos revela padrões que não são óbvios ao ver apenas os títulos:
+A leitura transversal dos artigos revela padrões que não são óbvios ao ver apenas os títulos:
 
 **A governança aparece em toda stack.**
 Do budget alert no Azure ao LGPD compliance, do `strict: true` no TypeScript aos guardrails de IA — cada artigo, independente da tecnologia, retorna ao tema de controle, rastreabilidade e responsabilidade técnica. Não é coincidência: é o filtro de quem construiu carreira em sistemas bancários regulados.
@@ -83,7 +83,7 @@ O artigo de Neo4j não é apenas técnico — é a narrativa de como a análise 
 
 Para quem lê este repositório com o olhar de avaliação técnica ou estratégica:
 
-**Para recrutadores e líderes técnicos:** este repositório é uma amostra de como o autor pensa, decide e comunica tecnologia — não uma lista de certificados. Cada artigo é um estudo de caso do raciocínio aplicado a um problema real. A amplitude de temas (19 artigos, 10 áreas) combinada com a profundidade técnica consistente é o dado relevante.
+**Para recrutadores e líderes técnicos:** este repositório é uma amostra de como eu penso, decido e comunico tecnologia — não uma lista de certificados. Cada artigo é um estudo de caso do raciocínio aplicado a um problema real. A amplitude de temas (19+ artigos, 10 áreas) combinada com a profundidade técnica consistente é o dado relevante.
 
 **Para profissionais em transição:** os artigos de autoconhecimento + a jornada DIO Campus Expert 14 documentam um caminho de reposicionamento real, com as ferramentas conceituais e técnicas usadas em cada etapa.
 
@@ -248,7 +248,7 @@ myArticles/
 ## Autor
 
 **Sergio Santos**
-Engenheiro de Dados | Arquiteto Cloud | DIO Campus Expert 14 | DIO Campus Expert 15
+Engenheiro de Dados | Arquiteto Cloud | DIO Campus Expert 14 | DIO Campus Expert 15 |
 15+ anos em sistemas críticos bancários • Azure • AWS • Java • Python • IA Generativa
 
 [![Portfólio Sérgio Santos](https://img.shields.io/badge/Portfólio-Sérgio_Santos-111827?style=for-the-badge&logo=githubpages&logoColor=00eaff)](https://portfoliosantossergio.vercel.app)

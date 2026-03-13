@@ -1,4 +1,9 @@
 # Meus Artigos: Governança, IA e Infraestrutura Crítica
+
+<p align="center">
+  <img src="assets/meus-artigos.png" alt="Meus Artigos Técnicos" width="600"/>
+</p>
+
 ### Pensamento Técnico Aplicado •  Artigos • Por Áreas de Especialização
 
 

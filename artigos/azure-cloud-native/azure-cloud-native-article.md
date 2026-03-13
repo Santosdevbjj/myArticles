@@ -445,4 +445,5 @@ Esse é o caminho. E cada comando que você executa hoje é um passo nessa dire�
 
 *Você está começando sua jornada no Azure ou já atua como especialista? Conta nos comentários o seu maior aprendizado com Cloud Native até hoje.*
 
-*#Azure #CloudComputing #CloudNative #CloudNativeArchitecture #CNCF #Microsoft #AzureDevOps #DevOps #Bicep #IaC #Certificacao #TransformacaoDigital #LGPD #ZeroTrust #CloudSecurity #AZ900 #OpenTelemetry #ContainerApps #ManagedIdentity #KEDA #FinOps #AzureFinOps #Carreira*
+*#Azure #CloudComputing #CloudNative #CloudNativeArchitecture #CNCF #Microsoft #AzureDevOps #DevOps
+

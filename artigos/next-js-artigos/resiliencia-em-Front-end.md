@@ -1,8 +1,6 @@
  ## Resiliência em Front-end: como evitar que APIs derrubem sua aplicação com Next.js 16.2
 
 
-![Next.js](../../assets/nextjs001.png)
-
 
 ---
 

@@ -1,12 +1,9 @@
 ## Resiliência em Front-end: como evitar que APIs derrubem sua aplicação com Next.js 16.2
 
 <p align="center">
-  <img src="../../assets/nextjs001.png" alt="Descrição da imagem" width="400"/>
+  <img src="../../assets/nextjs001.png" alt="Next.js 16.2" width="400"/>
 </p>
 
----
-
-![Descrição da imagem](../../assets/nextjs001.png)
 
 
 Uma única falha em uma API externa pode derrubar toda a experiência de uma aplicação moderna — e custar milhares em perda de confiança do usuário.
@@ -343,6 +340,11 @@ Engenheiros que entendem isso não apenas escrevem código — **constroem siste
 
 Esse tipo de abordagem aproxima o front-end das práticas de **SRE e Engenharia de Plataforma** — e é exatamente aí que o mercado está buscando os próximos arquitetos de software.
 
+---
+
+![Next.js 16.2](../../assets/nextjs001.png)
+
+---
 
 
  ## E você?

@@ -5,6 +5,7 @@
 </p>
 
 
+---
 
 Uma única falha em uma API externa pode derrubar toda a experiência de uma aplicação moderna — e custar milhares em perda de confiança do usuário.
 

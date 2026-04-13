@@ -1,8 +1,8 @@
-Quando "Aceitar Cookies" virou Engenharia de Software
+## Quando "Aceitar Cookies" virou Engenharia de Software
 
-Como implementei um sistema de consentimento production-grade com padrões de Big Tech — Event-Driven Architecture em Next.js 16
+**Como implementei um sistema de consentimento production-grade com padrões de Big Tech — Event-Driven Architecture em Next.js 16**
 
-   Por Sérgio Santos  | DIO Campus Expert 15
+   **Por Sérgio Santos  | DIO Campus Expert 15**
 
 •   Este artigo foi escrito em Abril de 2026 e reflete o estado atual das regulamentações LGPD, GDPR e do Google Consent Mode v2, bem como as versões mais recentes da stack (Next.js 16.2.2, React 19.2.4, TypeScript 6.0.2, Node 24). Se você está lendo isto no futuro, considere verificar atualizações nas leis e nas APIs — o cenário de privacidade digital evolui rapidamente.
 
@@ -75,8 +75,7 @@ O portfólio atende usuários em 5 idiomas — Português, Inglês, Espanhol (ES
 
 O cenário regulatório em abril de 2026 é este:
 
-
-INSERIR IMAGEM
+<img width="985" height="493" alt="Screenshot_20260413-122155" src="https://github.com/user-attachments/assets/d5042595-268e-4c14-9555-fb393da4f4b5" />
 
 
 
@@ -129,8 +128,8 @@ Ou visualmente:
 
 A abordagem comum (reload na página) cria acoplamento direto entre o Footer, o Banner e os scripts de analytics. Qualquer mudança em um componente quebra os outros. Avaliei três alternativas antes de decidir:
 
+<img width="996" height="596" alt="Screenshot_20260413-122247" src="https://github.com/user-attachments/assets/3baf4049-ef85-43a3-92c9-cd6bdddd5e10" />
 
-INSERIR IMAGEM 
 
 
 
@@ -421,8 +420,8 @@ Antes de defender a solução custom, é preciso responder a pergunta que qualqu
 
 A resposta exige honestidade sobre o contexto:
 
+<img width="988" height="1135" alt="Screenshot_20260413-122351" src="https://github.com/user-attachments/assets/20ad1caf-1b55-4b5c-bb26-ea69744e85ba" />
 
-INSERIR IMAGEM 
 
 
 
@@ -501,11 +500,11 @@ try {
 Para um portfólio com perfil de tráfego real (estimativa conservadora baseada em métricas de portfólios similares no Vercel):
 
 
-INSERIR IMAGEM 
+<img width="983" height="1236" alt="Screenshot_20260413-122440" src="https://github.com/user-attachments/assets/f6f79542-2301-434f-b280-004244c95890" />
 
 
 
-> Conclusão de negócio: 3 horas de engenharia correta eliminam uma exposição jurídica de R$ 50.000+ e entregam dados de analytics confiáveis para todas as decisões futuras. Isso é engenharia com retorno mensurável.
+• Conclusão de negócio: 3 horas de engenharia correta eliminam uma exposição jurídica de R$ 50.000+ e entregam dados de analytics confiáveis para todas as decisões futuras. Isso é engenharia com retorno mensurável.
 
  Benchmark Visual — Antes vs. Depois
 
@@ -651,8 +650,7 @@ A arquitetura atual é correta para portfólios e aplicações de pequeno/médio
 
  O Que Muda em Escala
 
-
-INSERIR IMAGEM 
+<img width="996" height="1240" alt="Screenshot_20260413-122610" src="https://github.com/user-attachments/assets/2d1f2fba-a949-4ffc-9da1-4daebf1f21ca" />
 
 
 
@@ -676,7 +674,6 @@ INSERIR IMAGEM
 - Integração com EU AI Act: transparência de processamento automático para cada feature de IA
 
 •   O insight de escala: O componente `CookieBanner.tsx` que você escreve hoje é o mesmo em todas as fases. O que muda é a **infraestrutura ao redor** — o log, o audit trail, a propagação. Decisões arquiteturais corretas na fase 1 evitam grandes refatorações nas fases 2 e 3.
-
 
 
 

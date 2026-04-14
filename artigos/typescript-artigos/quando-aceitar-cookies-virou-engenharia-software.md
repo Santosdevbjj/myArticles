@@ -4,7 +4,7 @@
 
    **Por Sérgio Santos  | DIO Campus Expert 15**
 
-•   Este artigo foi escrito em Abril de 2026 e reflete o estado atual das regulamentações LGPD, GDPR e do Google Consent Mode v2, bem como as versões mais recentes da stack (Next.js 16.2.2, React 19.2.4, TypeScript 6.0.2, Node 24). Se você está lendo isto no futuro, considere verificar atualizações nas leis e nas APIs — o cenário de privacidade digital evolui rapidamente.
+•   Este artigo foi escrito em Abril de 2026 e reflete o estado atual das regulamentações LGPD, GDPR e do Google Consent Mode v2, bem como as versões mais recentes da stack (Next.js 16.2.3, React 19.2.5, TypeScript 6.0.2, Node 24). Se você está lendo isto no futuro, considere verificar atualizações nas leis e nas APIs — o cenário de privacidade digital evolui rapidamente.
 
 
 
@@ -715,7 +715,7 @@ Conte nos comentários com contexto real. Adoraria aprender com a sua experiênc
 
    Stack Utilizada
 
-`Next.js 16.2.2` · `React 19.2.4` · `TypeScript 6.0.2` · `Tailwind CSS 4.2` · `Google Consent Mode v2` · `Vercel` · `Node 24`
+`Next.js 16.2.3` · `React 19.2.5` · `TypeScript 6.0.2` · `Tailwind CSS 4.2` · `Google Consent Mode v2` · `Vercel` · `Node 24`
 
 
 

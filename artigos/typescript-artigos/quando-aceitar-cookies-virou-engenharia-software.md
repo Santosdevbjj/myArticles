@@ -37,7 +37,7 @@ Foi exatamente aqui que eu decidi fazer diferente — e esse artigo conta o porq
 - A maioria dos sites coleta dados antes do consentimento — isso é ilegal sob LGPD/GDPR
 - Resolvi com GCMv2 + Consent Orchestration Layer via Event-Driven Architecture
 - Resultado: 0% de coleta antes do consentimento + performance preservada + arquitetura desacoplada
-- Stack: Next.js 16.2.2 · React 19 · TypeScript 6.0.2 · Tailwind 4.2 · Node 24
+- Stack: Next.js 16.2.3 · React 19.2.5 · TypeScript 6.0.2 · Tailwind 4.2 · Node 24
 
 
 

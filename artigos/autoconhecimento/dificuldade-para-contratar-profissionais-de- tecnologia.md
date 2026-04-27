@@ -155,7 +155,6 @@ Se a resposta for não, você já sabe onde começar.
 
 **Sergio Santos** é Data Engineer com mais de 15 anos de experiência em sistemas bancários críticos. Escreve sobre Engenharia de Dados, Cloud e desenvolvimento de carreira em tecnologia.
 
-🔗 [Portfolio](https://portfoliosantossergio.vercel.app) | [GitHub](https://github.com/Santosdevbjj)
  
 
 

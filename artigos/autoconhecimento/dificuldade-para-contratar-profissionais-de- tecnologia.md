@@ -93,9 +93,9 @@ Não dominar o idioma não é apenas uma barreira de contratação. É uma barre
 
 Os dados apontam dois movimentos simultâneos que precisam ser lidos em conjunto:
 
-  Movimento 1 — Demanda: Especialistas em IA são os profissionais mais difíceis de encontrar (35%), seguidos de engenheiros de software (31%). Quarenta e seis por cento das empresas esperam que a demanda por IA aumente nos próximos 2 anos.
+  **Movimento 1** — Demanda: Especialistas em IA são os profissionais mais difíceis de encontrar (35%), seguidos de engenheiros de software (31%). Quarenta e seis por cento das empresas esperam que a demanda por IA aumente nos próximos 2 anos.
 
-  Movimento 2 — Impacto: Rodrigo Stefanini, CEO da Stefanini Group para América Latina e Espanha, foi explícito: os cargos mais ameaçados pela produtividade que a IA proporciona não são os seniores — são os júniores e plenos.
+  **Movimento 2** — Impacto: Rodrigo Stefanini, CEO da Stefanini Group para América Latina e Espanha, foi explícito: os cargos mais ameaçados pela produtividade que a IA proporciona não são os seniores — são os júniores e plenos.
 
 A leitura correta não é catastrófica. É estratégica:
 
